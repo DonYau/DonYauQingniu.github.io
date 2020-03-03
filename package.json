@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/YolandaQingniu/YolandaQingniu.github.io.git"
+    "url": "git+ssh://git@github.com/DonYau/DonYauQingniu.github.io.git"
   },
   "keywords": [
     "ble",
@@ -21,13 +21,11 @@
   "author": "hdr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YolandaQingniu/YolandaQingniu.github.io/issues"
+    "url": "https://github.com/DonYau/DonYauQingniu.github.io/issues"
   },
-  "homepage": "https://github.com/YolandaQingniu/YolandaQingniu.github.io#readme",
+  "homepage": "https://github.com/DonYau/DonYauQingniu.github.io#readme",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   },
-  "dependencies": {
-    
-  }
+  "dependencies": {}
 }
